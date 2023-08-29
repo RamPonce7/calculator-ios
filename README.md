@@ -4,7 +4,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 ## How It Works?
 
-[`Video`](http://ramponce7.com/demos/ios-calculator.html)
+[`Video`](http://ramponce7.com/demos/ios-calculator.html){:target="_blank"}
 
 ## Step 1: Start the Metro Server
 
