@@ -2,9 +2,14 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 # Calculator iOs
 
-## How It Works?
+## How It Works? [`Video`](http://ramponce7.com/demos/ios-calculator.html)
 
-[`Video`](http://ramponce7.com/demos/ios-calculator.html)
+## Vertical
+![ios-calculator-v](https://github.com/RamPonce7/calculator-ios/assets/14814362/facfd0bb-0329-4257-ab62-5782a047363a)
+
+## Horizontal
+
+![ios-calculator-h](https://github.com/RamPonce7/calculator-ios/assets/14814362/666ad8fa-e85d-400a-8e48-f842e6bb217f)
 
 ## Step 1: Start the Metro Server
 
